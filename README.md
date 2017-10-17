@@ -1,5 +1,14 @@
 # Loan Broker
 
+Semester project for System Integration course
+
+Group:
+
+- Ismail Cam
+- Mazlum D. Sert
+
+---
+
 - __Credit Score__: https://github.com/bigstepdenmark/creditScore
 - __Get Banks__: https://github.com/bigstepdenmark/getBanks
 - __Rule Base__: https://github.com/bigstepdenmark/rulebase
