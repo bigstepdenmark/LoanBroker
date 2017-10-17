@@ -1,4 +1,5 @@
 # Loan Broker
+<img src="http://cdn.magnifymoney.com/2014/07/peertopeer-full4.png" width="100%">
 
 Semester project for System Integration course
 
