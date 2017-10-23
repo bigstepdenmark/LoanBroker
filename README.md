@@ -17,6 +17,7 @@ Links to repositories:
 - __Rule Base__: https://github.com/bigstepdenmark/rulebase
 - __XML Translator__: https://github.com/bigstepdenmark/xmlTranslator
 - __JSON Translator__: https://github.com/bigstepdenmark/jsonTranslator
+- __MQ Translator__: https://github.com/bigstepdenmark/mqTranslator
 - __Recip. List__: https://github.com/bigstepdenmark/recipList
 - __Normalizer__: https://github.com/bigstepdenmark/normalizer
 - __Aggregator__: https://github.com/bigstepdenmark/aggregator
