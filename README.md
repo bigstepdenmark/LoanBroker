@@ -21,3 +21,7 @@ Links to repositories:
 - __Normalizer__: https://github.com/bigstepdenmark/normalizer
 - __Aggregator__: https://github.com/bigstepdenmark/aggregator
 - __Banks__: https://github.com/bigstepdenmark/banks
+
+---
+
+<img src="images/lb.png" width="100%">
