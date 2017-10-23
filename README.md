@@ -21,7 +21,7 @@ Links to repositories:
 - __Recip. List__: https://github.com/bigstepdenmark/recipList
 - __Normalizer__: https://github.com/bigstepdenmark/normalizer
 - __Aggregator__: https://github.com/bigstepdenmark/aggregator
-- __Banks__: https://github.com/bigstepdenmark/banks
+- __MQ Bank__: https://github.com/bigstepdenmark/mqBank
 
 ---
 
