@@ -24,4 +24,4 @@ Links to repositories:
 
 ---
 
-<img src="images/lb.png" width="100%">
+<img src="images/lb.svg" width="100%">
